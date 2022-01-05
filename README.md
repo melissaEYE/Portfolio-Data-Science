@@ -39,7 +39,7 @@ https://github.com/melissaEYE/Association_Rules
 The objective of the analysis was to determine co-morbid symptoms for patients who had lung cancer and were required to undergo a lung resection. Understanding which symptoms to be co-morbid can help to improve patient care and medicine prescription. The type of analysis is association rule learning, whereby associations, or sets of frequent items, between variables are explored to try and find insights and hidden relationships in large datasets (Han, Kamber, Pei, 2011). One example may be, that a person who smokes (lhs, antecedent), is frequently coupled with a symptom of cough and weakness (rhs, consequent).
 
 
-## Text Classification and Hotel Reviews
+## Text Classification (NLP) and Hotel Reviews
 
 https://github.com/melissaEYE/Text-Classification
 
