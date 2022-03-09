@@ -44,3 +44,33 @@ The objective of the analysis was to determine co-morbid symptoms for patients w
 https://github.com/melissaEYE/Text-Classification
 
 The objective of the analysis was to determine the sentiment (positive or negative) of patrons who stayed at the hotels. The type of analysis is text classification. The goal of text classification is to extract features within the unstructured patron reviews that represent the hotels, concepts such as "I like" or "I don't like...."
+
+# SAS Enterprise Miner
+
+## Bagging-Boosting-Random-Forest
+
+https://github.com/melissaEYE/Bagging-Boosting-Random-Forest
+
+The objective of the analysis was identify bad car buys for a second hand car sales business in order to help them avoid cars that were bad and develop an inventory of quality cars. Analysis was various ensemble decision tree models using SAS Enterprise Miner. 
+
+## Heterogeneous-Ensemble-Models
+
+https://github.com/melissaEYE/Heterogeneous-Ensemble-Models
+
+The objective of the analysis was identify bad car buys for a second hand car sales business in order to help them avoid cars that were bad and develop an inventory of quality cars. Analysis included various ensemble Support Vector Machines (SVM), different forms of decision trees, regression, neural networks, and Naïve Bayesian models using SAS Enterprise Miner. 
+
+## Support-Vector-Machines
+
+ https://github.com/melissaEYE/Support-Vector-Machines
+ 
+The objective of the analysis was identify bad car buys for a second hand car sales business in order to help them avoid cars that were bad and develop an inventory of quality cars. Analysis was conducted using various SVM parameters in SAS Enterprise Miner.
+
+# Google Colab & Python 
+
+## Deep-Learning-Convolutional-Neural-Networks
+
+https://github.com/melissaEYE/Deep-Learning-Convolutional-Neural-Networks
+
+The purpose of the analysis was to accurately identify objects in the images, such as a truck or car. To accomplish this purpose, a method of deep learning referred to as Convolutional Neural Networks (CNN), was employed.
+
+
