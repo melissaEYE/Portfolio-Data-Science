@@ -73,4 +73,19 @@ https://github.com/melissaEYE/Deep-Learning-Convolutional-Neural-Networks
 
 The purpose of the analysis was to accurately identify objects in the images, such as a truck or car. To accomplish this purpose, a method of deep learning referred to as Convolutional Neural Networks (CNN), was employed.
 
+# Reinforcement-Learning
+Reinforcement Learning (RL) is one of three machine learning paradigms (supervised and unsupervised learning are the other two areas). In RL we are concerned with how "agents" or robots take actions within the environment.  
 
+https://github.com/melissaEYE/Reinforcement-Learning
+
+## Tic-Tac-Toe
+
+The purpose of the exercise is to create a model that learns how to play the game Tic-Tac-Toe. There are two versions of the game, the first, is a 3-x-3 matrix and the second is a 4-x-4 matrix. Original code is credited to Ryan Rudes (2020). 
+
+https://github.com/melissaEYE/Reinforcement-Learning
+
+## Robot Factory Navigation 
+
+The purpose of this assignment is to train a robot to navigate an environment (a guitar building factory) such that the robot moves through the factory in the most efficient manner to collect the required parts for building the guitar. To achieve this goal requires that the robot learn the factory layout (environment), the rooms or locations within the environment (states, n = 9) and how to navigate them (actions).  
+
+https://github.com/melissaEYE/Reinforcement-Learning
