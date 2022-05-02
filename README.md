@@ -9,7 +9,7 @@ https://github.com/melissaEYE/Analytical-Requirements-Gathering
 
 # COGNOS Analytics
 
-##Exploratory Data Analysis
+## Exploratory Data Analysis
 
 https://github.com/melissaEYE/Exploratory-Data-Analysis
 
