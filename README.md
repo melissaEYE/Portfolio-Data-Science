@@ -21,7 +21,7 @@ The objective of the Exploratory Data Analysis (EDA) is to "tell the story" of t
 https://github.com/melissaEYE/Predictive-Modeling-/blob/main/README.md
 
 
-The objective of teh analysis was to predict the target variable, worth in billions. The goal in developing more than one model was to improve upon the predictive strength from model one to model four. 
+The objective of the analysis was to predict the target variable, worth in billions. The goal in developing more than one model was to improve upon the predictive strength from model one to model four. 
 
 # R
 
