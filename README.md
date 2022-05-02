@@ -11,6 +11,9 @@ https://github.com/melissaEYE/Analytical-Requirements-Gathering
 
 Exploratory Data Analysis using COGNOS analytics. Visualizations of varying types are used to "tell the story" of the data. https://github.com/melissaEYE/Exploratory-Data-Analysis
 
+Predictive Modeling
+The data set chosen for this assignment is the Billionaires data. Each model was created to predict the target variable, worth in billions. The goal in developing more than one model was to improve upon the predictive strength from model one to model four. https://github.com/melissaEYE/Predictive-Modeling-/blob/main/README.md
+
 # R
 
 ## Cluster Analysis on Eye Tracking Data
