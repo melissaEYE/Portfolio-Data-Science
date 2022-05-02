@@ -20,7 +20,6 @@ The objective of the Exploratory Data Analysis (EDA) is to "tell the story" of t
 
 https://github.com/melissaEYE/Predictive-Modeling-/blob/main/README.md
 
-
 The objective of the analysis was to predict the target variable, worth in billions. The goal in developing more than one model was to improve upon the predictive strength from model one to model four. 
 
 ## Dashboards
@@ -28,6 +27,12 @@ The objective of the analysis was to predict the target variable, worth in billi
 https://github.com/melissaEYE/Dashboards/blob/main/README.md
 
 The objective is to use the dashboards to dig deeper into the insights gained from the predictive analysis with new insights revealed via dashboard visualizations and storyboards.
+
+## Storyboarding
+
+https://github.com/melissaEYE/Storyboarding/blob/main/README.md
+
+Storyboarding is a presentation of the data including exploration, visualization, analysis, and dashboards in order to explain or "tell the story" of the data.
 
 # R
 
