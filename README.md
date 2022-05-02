@@ -7,6 +7,10 @@ Analytical requirements gathering using the Decisions First Modeler to frame the
 
 https://github.com/melissaEYE/Analytical-Requirements-Gathering
 
+# COGNOS Analytics
+
+Exploratory Data Analysis using COGNOS analytics. Visualizations of varying types are used to "tell the story" of the data. https://github.com/melissaEYE/Exploratory-Data-Analysis
+
 # R
 
 ## Cluster Analysis on Eye Tracking Data
