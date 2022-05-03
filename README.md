@@ -34,6 +34,18 @@ https://github.com/melissaEYE/Storyboarding/blob/main/README.md
 
 Storyboarding is a presentation of the data including exploration, visualization, analysis, and dashboards in order to explain or "tell the story" of the data.
 
+# SQL & Relational Database Management
+
+https://github.com/melissaEYE/SQL-Database-Management
+
+The objective of this repository is to demonstrate the use of SQL for management of relational databases (RDS). 
+
+# ETL
+
+https://github.com/melissaEYE/Extract-Transform-Load
+
+The objective is to describe Extract, Transform, Load (ETL) process with ERD diagram.
+
 # R
 
 ## Cluster Analysis on Eye Tracking Data
