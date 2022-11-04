@@ -173,6 +173,6 @@ A Capstone Project is a multifaceted body of work that serves as a culminating a
 
 Presentation 1: https://www.youtube.com/watch?v=IblaK_UAjbI 
 
-Final Presentation: https://youtu.be/mvRwi3c6Tfo 
+Presentation 3: https://youtu.be/mvRwi3c6Tfo 
 
 This work is proprietary to RightEye, LLC. To request further information please email me: melissa@righteye.com
