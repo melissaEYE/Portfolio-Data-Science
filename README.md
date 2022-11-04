@@ -167,3 +167,12 @@ The purpose of this was to develop a chatbot for the Convergence Insufficiency S
 
 https://github.com/melissaEYE/Chatbot-Development
 
+# Capstone Project: Eye Movements Across the Lifespan
+
+A Capstone Project is a multifaceted body of work that serves as a culminating academic and intellectual experience for students. My Capstone project included 262,000 rows of data and 1,319 columns. Data included eye movement tests using the major eye movements. Coding languages included SQL, Python, R and json. Auto ML tools include Data Robot. Analytics included: K-means clustering, Affinity Propgation, mean shit, spectral clustering, Ward hierachical clustering, agglomerative clustering, DBSCAN, OPTICS, Gaussian Mixture methods, BIRCH and Bisecting K-Means. Linear regression was used to inform input variables. Statistical tests included MANOVA, Wilks' Lambda, post Hoc LSD & Tukey HSD. Where appropriate some models like the Affinitiy Propagation required Chi Sqared and Likelihood ratios. A successful model was developed identifying 15 age groups from 6 to 80-years-of-age. 
+
+Presentation 1: https://www.youtube.com/watch?v=IblaK_UAjbI 
+
+Final Presentation: https://youtu.be/mvRwi3c6Tfo 
+
+This work is proprietary to RightEye, LLC. To request further information please email me: melissa@righteye.com
