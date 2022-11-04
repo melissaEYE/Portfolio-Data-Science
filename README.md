@@ -163,7 +163,7 @@ https://github.com/melissaEYE/Text-Analysis
 
 # Chatbot using IBM Watson 
 
-The purpose of this was to develop a chatbot for the Convergence Insufficiency Symptom Survey to improve business efficiencies.
+The purpose of this was to develop a chatbot for the Convergence Insufficiency Symptom Survey to improve business efficiencies. You can test the chatbot here: https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?region=au-syd&integrationID=eeea12e5-f8bf-4bd7-9a97-748b1586b6eb&serviceInstanceID=5a8de2b0-318a-4570-a621-ac68c4804ef0 If you are interested in further development of this for your business please email me: melissa@righteye.com 
 
 https://github.com/melissaEYE/Chatbot-Development
 
