@@ -139,8 +139,31 @@ https://github.com/melissaEYE/Reinforcement-Learning
 
 ## Big database architecture w/ Hadoop & Hbase
 
+The purpose of this assignment was to create a Hadoop HBase database with academic records.
+
+https://github.com/melissaEYE/Big-Data-Hadoop-Apache-Spark/blob/main/Hunfalvay_Assignment_1.docx
+
 ## Regression w/ Apache Spark
+
+The purpose of these assignments was to use the big data platform to reun various analytical processes.
+
+https://github.com/melissaEYE/Big-Data-Hadoop-Apache-Spark
 
 ## Sentiment Analysis w/ IBM Db2 on Cloud
 
+The purpose of this assignment was to understand sentiments on airline tweets using IBM Db2 on Cloud service on IBM Cloud.
+
+https://github.com/melissaEYE/Sentiment-Analysis
+
 ## Text Analysis w/ IBM Watson Studio
+
+The purpose of this assignment was to analyze tweets from a GOP debate using in order to provide insight into Mr Trump's win. I used DB2 on Cloud service and the integrated RStudio environment in IBM Watson Studio. 
+
+https://github.com/melissaEYE/Text-Analysis
+
+# Chatbot using IBM Watson 
+
+The purpose of this was to develop a chatbot for the Convergence Insufficiency Symptom Survey to improve business efficiencies.
+
+https://github.com/melissaEYE/Chatbot-Development
+
