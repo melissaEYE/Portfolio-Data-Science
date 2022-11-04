@@ -134,3 +134,9 @@ https://github.com/melissaEYE/Reinforcement-Learning
 The purpose of this assignment is to train a robot to navigate an environment (a guitar building factory) such that the robot moves through the factory in the most efficient manner to collect the required parts for building the guitar. To achieve this goal requires that the robot learn the factory layout (environment), the rooms or locations within the environment (states, n = 9) and how to navigate them (actions).  
 
 https://github.com/melissaEYE/Reinforcement-Learning
+
+# Big Data
+
+## Hadoop
+
+## Apache Spark
