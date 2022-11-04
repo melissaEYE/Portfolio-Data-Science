@@ -137,6 +137,10 @@ https://github.com/melissaEYE/Reinforcement-Learning
 
 # Big Data
 
-## Hadoop
+## Big database architecture w/ Hadoop & Hbase
 
-## Apache Spark
+## Regression w/ Apache Spark
+
+## Sentiment Analysis w/ IBM Db2 on Cloud
+
+## Text Analysis w/ IBM Watson Studio
